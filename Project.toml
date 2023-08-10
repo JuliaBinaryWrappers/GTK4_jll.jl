@@ -1,6 +1,6 @@
 name = "GTK4_jll"
 uuid = "6ebb71f1-8434-552f-b6b1-dc18babcca63"
-version = "4.10.4+0"
+version = "4.10.5+0"
 
 [deps]
 Libepoxy_jll = "42c93a91-0102-5b3f-8f9d-e41de60ac950"
@@ -33,6 +33,7 @@ Xorg_libXi_jll = "a51aa0fd-4e3c-5386-b890-e753decda492"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+FreeType2_jll = "2.10.4"
 Graphene_jll = "1.10.6"
 Wayland_protocols_jll = "1.25"
 Glib_jll = "2.74"
