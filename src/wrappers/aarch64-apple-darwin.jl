@@ -9,6 +9,7 @@ using FriBidi_jll
 using FreeType2_jll
 using gdk_pixbuf_jll
 using Libepoxy_jll
+using Libtiff_jll
 using HarfBuzz_jll
 using iso_codes_jll
 using Fontconfig_jll
@@ -16,7 +17,7 @@ JLLWrappers.@generate_wrapper_header("GTK4")
 JLLWrappers.@declare_library_product(libgtk4, "@rpath/libgtk-4.1.dylib")
 JLLWrappers.@declare_executable_product(gtk4_builder_tool)
 function __init__()
-    JLLWrappers.@generate_init_header(Glib_jll, Graphene_jll, Cairo_jll, Pango_jll, FriBidi_jll, FreeType2_jll, gdk_pixbuf_jll, Libepoxy_jll, HarfBuzz_jll, iso_codes_jll, Fontconfig_jll)
+    JLLWrappers.@generate_init_header(Glib_jll, Graphene_jll, Cairo_jll, Pango_jll, FriBidi_jll, FreeType2_jll, gdk_pixbuf_jll, Libepoxy_jll, Libtiff_jll, HarfBuzz_jll, iso_codes_jll, Fontconfig_jll)
     JLLWrappers.@init_library_product(
         libgtk4,
         "lib/libgtk-4.1.dylib",
