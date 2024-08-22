@@ -1,123 +1,123 @@
 [[GTK4]]
 arch = "aarch64"
-git-tree-sha1 = "28cdf71a3eafbca244028bbd0dd90d0014c8bc48"
+git-tree-sha1 = "674439398cd1890ef4701b9cfd6036b3283bcf01"
 os = "macos"
 
     [[GTK4.download]]
-    sha256 = "98433fe9ab36707b4be0461d2f65aff3f07f2df2b6d64974f3201465444716c7"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.aarch64-apple-darwin.tar.gz"
+    sha256 = "f2dd382675f0102ea9a845c4a9a4755beb4802763748e9890243b2e5faa01d8d"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.aarch64-apple-darwin.tar.gz"
 [[GTK4]]
 arch = "aarch64"
-git-tree-sha1 = "c81d44ecaa70d2965fb3d58f7e84895c4db1be8b"
+git-tree-sha1 = "04218c496e515c677f7804440e57f70500d16862"
 libc = "glibc"
 os = "linux"
 
     [[GTK4.download]]
-    sha256 = "24d8416d5ee8ed970382c7b467d7bea573a0fb4d44d96d45625034ba28271a78"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.aarch64-linux-gnu.tar.gz"
+    sha256 = "3354b23cc6214bfd470cbe27e3da26237acf1c2a15a2b27753299e0d1fc5c22a"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.aarch64-linux-gnu.tar.gz"
 [[GTK4]]
 arch = "aarch64"
-git-tree-sha1 = "d897012373c4f47d733b10fedb44d38185627ceb"
+git-tree-sha1 = "64804a7c0b220177191fc4d31c66de10f3fe9deb"
 libc = "musl"
 os = "linux"
 
     [[GTK4.download]]
-    sha256 = "c2e969eb91b9deefabb2ff902bdba5e5350738e67cdf1c747f4fc4e51c55a6ac"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.aarch64-linux-musl.tar.gz"
+    sha256 = "76ff97867012e2be88c5ebd4f384ccc26f712d5d21eecacf7ee3671de363c42b"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.aarch64-linux-musl.tar.gz"
 [[GTK4]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c45956d18f0b667045e06bebac441078d4748352"
+git-tree-sha1 = "8fb2103d4d250a5b318055cb844a16d6bb2c6566"
 libc = "glibc"
 os = "linux"
 
     [[GTK4.download]]
-    sha256 = "c51a72e48595d0f2f882554752123fce69fffc2b3ab9f47fd694911449669669"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4eb5e65247efa3e637670fb9467a21d6f653838091d7101e89cf609d280f1844"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.armv7l-linux-gnueabihf.tar.gz"
 [[GTK4]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f6a0d1f2fa2f2d76e3d0a9f84863aca663c11afc"
+git-tree-sha1 = "069de83e1a2489b9a10ceab7ffe87c9ed7dfdd3f"
 libc = "musl"
 os = "linux"
 
     [[GTK4.download]]
-    sha256 = "17955039e498fd6f5acfae436eb3601ec44db595c2f3baa5b3a03aa8a6915d94"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "4094bf0430e2df484060baf62fe64c0d912f14436250d0aec9ea2362ee32e59b"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.armv7l-linux-musleabihf.tar.gz"
 [[GTK4]]
 arch = "i686"
-git-tree-sha1 = "a6b5bfd8be7a6f91ef6d77709f47d298513ceae7"
+git-tree-sha1 = "8031669c8a4104bd64d81bd443fcad74bcfb0326"
 libc = "glibc"
 os = "linux"
 
     [[GTK4.download]]
-    sha256 = "511e77eab1ebab965c6716cd2d4cee5593c5376ae735e9c6faa8090e6931a999"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.i686-linux-gnu.tar.gz"
+    sha256 = "fa3a66b11b42a19da47f627e24650ce100de91efb5bb4e755507b018d1cf7bef"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.i686-linux-gnu.tar.gz"
 [[GTK4]]
 arch = "i686"
-git-tree-sha1 = "49b37aec97ea606352553fba7ab56959d6e613c8"
+git-tree-sha1 = "607fed59b019b9494ab29c09d11f1be0679b2171"
 libc = "musl"
 os = "linux"
 
     [[GTK4.download]]
-    sha256 = "37ba296949f0c96cc9b85e8d9f211b0d9fd8e40faf93846ad954cb64d7214187"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.i686-linux-musl.tar.gz"
+    sha256 = "1a394432bf7d2adc85f1fe81b6d095476aafe7026ff4b232730236c4827ec0af"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.i686-linux-musl.tar.gz"
 [[GTK4]]
 arch = "i686"
-git-tree-sha1 = "8fe4b9957c822476c63eed3d10fc74f055dabda2"
+git-tree-sha1 = "c525014f1c90d5a8959f50c266a098b6f85ec736"
 os = "windows"
 
     [[GTK4.download]]
-    sha256 = "f586fe95fd32830b19a0e311f18ba19f5d6cea7e2e6877a7aecddd0fa7f65316"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.i686-w64-mingw32.tar.gz"
+    sha256 = "badfe181993a711a017ae5b9b4006953128a086a648a97e0d22bdb1ae66a404c"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.i686-w64-mingw32.tar.gz"
 [[GTK4]]
 arch = "powerpc64le"
-git-tree-sha1 = "203983dbc7ccfcf551f55bfd9dfc6f37db988e79"
+git-tree-sha1 = "ce91c44bc78b0f9071d5684dc37cc358dad61bf5"
 libc = "glibc"
 os = "linux"
 
     [[GTK4.download]]
-    sha256 = "028e32d11109e70da0d453f44a8e2cb275e427c4401a446437ae4105d53b73e7"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "776caa6ca3373bf6826441b4ef1930eebd94bf54942e936a58fd283d00626d66"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.powerpc64le-linux-gnu.tar.gz"
 [[GTK4]]
 arch = "x86_64"
-git-tree-sha1 = "e6ff6a9e66b9724d435a000cd359cdef38d3876b"
+git-tree-sha1 = "69e2284b7f76d0f89e460a9f229f8b55b2916f39"
 os = "macos"
 
     [[GTK4.download]]
-    sha256 = "de54c359fd72f657e50e6ae455c727f711f81b00f5a90b25ec8d866d8f8f67a3"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.x86_64-apple-darwin.tar.gz"
+    sha256 = "ab7c0d4d5b029fa176c39eb1c67d35b640419335e3ee8037ed69a1ddc2c35a3c"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.x86_64-apple-darwin.tar.gz"
 [[GTK4]]
 arch = "x86_64"
-git-tree-sha1 = "19b30ad272d6fe82f3db170b16c2fd92157ef60d"
+git-tree-sha1 = "3ee0f31a7c7548d37e6bf688b682c088c50f506f"
 libc = "glibc"
 os = "linux"
 
     [[GTK4.download]]
-    sha256 = "72fb730e801dbeab4b4008244eb57254ea568584c762ba28ca3263319beaded5"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.x86_64-linux-gnu.tar.gz"
+    sha256 = "bdb28da95e1e67dc2a5ea094475059d5f3e86538a76a58ae4500981f62a2ef54"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.x86_64-linux-gnu.tar.gz"
 [[GTK4]]
 arch = "x86_64"
-git-tree-sha1 = "69973099b9db801a1c17c791072bfa4fc1f3d71d"
+git-tree-sha1 = "925664976c7d2520712b7916939ffbebea1d8549"
 libc = "musl"
 os = "linux"
 
     [[GTK4.download]]
-    sha256 = "370833f473e511ad89c3f6dd58a7e1b93139987461719f24422e518d2d1ea7d3"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.x86_64-linux-musl.tar.gz"
+    sha256 = "bdf97e1a7fff81942fdde161f4614a72ce9a5587ab56a567b5dc56999aa4ad4e"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.x86_64-linux-musl.tar.gz"
 [[GTK4]]
 arch = "x86_64"
-git-tree-sha1 = "20110791bec53b0e048491288234359ba8bd8613"
+git-tree-sha1 = "856f1bc946ed2269c5280212dacd040bb63fb5bd"
 os = "freebsd"
 
     [[GTK4.download]]
-    sha256 = "208e2c08ce2c545c3665dd4dfe09ead1b60f01d5c02523ba40d11174b6840ab3"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "152c0a1c0ceb6ed88cbaa14e9b5c526ea264574d0cf609cbc8bd358e061053d0"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.x86_64-unknown-freebsd.tar.gz"
 [[GTK4]]
 arch = "x86_64"
-git-tree-sha1 = "098b08e749d6d7d1c67c3c463719beea8b9322b1"
+git-tree-sha1 = "9893e8388ca9d6ea6161e17ec8c6dc1d3f1a2736"
 os = "windows"
 
     [[GTK4.download]]
-    sha256 = "285be80cf121f8ce1054065edb253e519f0ffee18468cae28845c68effd10c73"
-    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.12.5+0/GTK4.v4.12.5.x86_64-w64-mingw32.tar.gz"
+    sha256 = "74e29a4ce815f85da484220ffe3687021be34bffb9c3db907f8fcf5b88138638"
+    url = "https://github.com/JuliaBinaryWrappers/GTK4_jll.jl/releases/download/GTK4-v4.14.5+0/GTK4.v4.14.5.x86_64-w64-mingw32.tar.gz"
